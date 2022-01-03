@@ -1,5 +1,5 @@
 
-## Estudo-Alura-JRE-e-JDK 📚
+## Estudo-Alura-Java-JRE-e-JDK 📚
 
 #### > Instalação e o primeiro programa
 #### > Começando com Eclipse
